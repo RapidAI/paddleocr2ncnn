@@ -1,3 +1,3 @@
 # paddleocr2ncnn
 
-Some scripts for converting  models of paddleocr to ncnn format.
+Some scripts for converting onnx models of paddleocr to ncnn format.
