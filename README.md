@@ -16,5 +16,9 @@ It needs a special version of ONNXSIM (0.3.8) to simplify the onnx model of Rapi
 
 Download: https://github.com/daquexian/onnx-simplifier/releases/tag/v0.3.8
 
+after installed it, run the script in the repo.
+
+please modify it to match your need.
+
 
 ## 3. Do not, do not, do not optimize the converted models with ncnnoptimizer.
