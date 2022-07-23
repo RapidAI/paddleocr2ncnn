@@ -4,8 +4,6 @@ set ONNXOPTIMIZER=F:\ncnn_x64\bin\ncnnoptimize.exe
 Set PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
 set ONNXSIMPLE=python -m onnxsim
 set OUTDIR=F:\ncnn_x64\out
-rem %ONNX2NCNN%
-rem %ONNXSIMPLE%
 
 rem need onnxsim 0.3.8  and ncnn tools
 
