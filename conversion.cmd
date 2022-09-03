@@ -1,6 +1,6 @@
 set MODEL_DIR=F:\ncnn_x64\models
 set ONNX2NCNN=F:\ncnn_x64\bin\onnx2ncnn.exe
-set ONNXOPTIMIZER=F:\ncnn_x64\bin\ncnnoptimize.exe
+rem set ONNXOPTIMIZER=F:\ncnn_x64\bin\ncnnoptimize.exe
 Set PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
 set ONNXSIMPLE=python -m onnxsim
 set OUTDIR=F:\ncnn_x64\out
