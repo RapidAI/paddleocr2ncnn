@@ -14,7 +14,7 @@ https://github.com/RapidAI/PaddleOCRModelConverter
 
 It needs a special version of ONNXSIM (0.3.8) to simplify the onnx model of RapidOCR.
 
-Download: https://github.com/daquexian/onnx-simplifier/releases/tag/v0.3.8
+Download:
 
 after installed it, run the script in the repo.
 
