@@ -12,9 +12,9 @@ https://github.com/RapidAI/PaddleOCRModelConverter
 
 2. convert paddleocr models of onnx format  to ncnn format
 
-It needs a special version of ONNXSIM (0.3.8) to simplify the onnx model of RapidOCR.
+## It needs a special version of ONNXSIM (0.3.8) to simplify the onnx model of RapidOCR.
 
-Download: onnx-simplifier-0.3.8.zip
+Get it from this repo.
 
 after installed it, run the script in the repo.
 
