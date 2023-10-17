@@ -26,3 +26,6 @@ please modify it to match your need.
 
 
 ## only support paddleocrV2
+
+
+## for other version of PPOCR, please refer to https://blog.csdn.net/best2012power/article/details/124155888
