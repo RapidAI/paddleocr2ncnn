@@ -22,3 +22,7 @@ please modify it to match your need.
 
 
 ## 3. Do not, do not, do not optimize the converted models with ncnnoptimizer.
+
+
+
+## only support paddleocrV2
